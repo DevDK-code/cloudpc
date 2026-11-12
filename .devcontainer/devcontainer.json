@@ -6,6 +6,6 @@
   },
   "forwardPorts": [6080],
   "hostRequirements": {
-    "cpus": 4
+    "cpus": 2
   }
 }
